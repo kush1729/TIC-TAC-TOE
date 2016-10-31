@@ -1,0 +1,11 @@
+Added a very simple user interface
+Basically use the same screen but fill with white
+Then add whatever was to be added to the screen
+
+Also, when user clicks on a button, and the screen changes, then sometimes an action (say a button click event) is triggered
+So for example when user clicks on multi, it automatically chooses middle cell in the game board etc
+
+To counter this a delay timer has been added, so that the screen changes after the computer stops sensing a click event
+
+Proposed:
+Improve user interface
